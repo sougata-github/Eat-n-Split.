@@ -1,10 +1,11 @@
 # Eat n Split
 
-Eat n Split is a straightforward React application designed to simplify bill splitting between two friends and determine each person's owed amount.
+Eat n Split is a straight forward React application designed to simplify bill splitting between two friends and determine each person's owed amount.
 
 ## Preview of Live Site
 
-![Eat n Split Screenshot](screenshot.png)
+![Screenshot (50)](https://github.com/SDInfinity/Eat-n-Split./assets/102734212/cb0b6f57-891b-4ac0-87cf-d7428070d2a7)
+
 
 ## Features
 
@@ -24,4 +25,4 @@ Eat n Split is a straightforward React application designed to simplify bill spl
 
 
 
-[Click here to access the live site](#)
+[Click here to access the live site](#https://eat-n-split-sdinfinity.vercel.app/)
