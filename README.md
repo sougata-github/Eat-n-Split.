@@ -24,5 +24,3 @@ Eat n Split is a straight forward React application designed to simplify bill sp
 - **Reusable Friend and Button Components**: Enhances code reusability through custom components.
 
 
-
-[Click here to access the live site](#https://eat-n-split-sdinfinity.vercel.app/)
