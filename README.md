@@ -22,5 +22,3 @@ Eat n Split is a straight forward React application designed to simplify bill sp
 - **Add Friend Form**: Provides a form for adding a new friend to the list.
 - **SplitBill Form**: Allows input of bill details for splitting.
 - **Reusable Friend and Button Components**: Enhances code reusability through custom components.
-
-
